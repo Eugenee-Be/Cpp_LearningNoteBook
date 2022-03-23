@@ -7,8 +7,15 @@
 
 * Output
   * Put data from the console to the file
+
 * Input
   * Read data from the file to the console
+
+### Additional Input/Output functions
+
+ * cin.getline(char/string, MAX_NAME_LEN)
+ 
+ * cin.get()
 
 ## Assignment
  
