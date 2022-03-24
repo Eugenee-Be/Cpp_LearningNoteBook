@@ -77,6 +77,25 @@ Content Table (To be built...)
 
  * ``` cout.setf(ios_base::showpoint); ```
 
+### Issues
+
+* ❓ cin.get() & cin.getline()
+ * Make sure to add the MAX_LEN parameter
+ * Q: Why can't I enter the name when I do it like this?
+ 
+   Type:
+    ```
+    BMW[SPACE]Ferrari[ENTER]
+    ```
+    
+    ```
+    cin.get(carName, 50);
+    cin.getline(carOwner, 50);
+    fileout << "Car's Name: " << carName << endl;
+    fileout << "Car's Owner: " << carOwner << endl;
+    ```
+  * Proceed: cin.get() detects the [ENTER] and ends. But why not continue to run cin.getline()??
+    
 ## Assignment
  
   * Read data from file and output calculation result
