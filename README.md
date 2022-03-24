@@ -6,3 +6,4 @@ Record the learning journey of C++.
 ### C++ for Everyone: Structured Programming
 
 * Week 4: File IO (24 Mar 2022)
+  * Submitted assignment on 24 Mar 2022
