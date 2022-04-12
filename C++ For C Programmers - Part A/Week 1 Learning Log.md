@@ -545,24 +545,7 @@ This note contains takeaways in week 1's videos and homework.
 
  
  
-## 📘 Week 2 Module 2 [ ]
 
-
-### 🚅 Outlines
-
-* tbc
-
-### ❔ Questions
-
-* tbc
-
-### ❗ Quiz summary
-
-N/A
-
-### ⛵ Further Exploration
-
-N/A
 
 ## 📘 Week 3 Module 3 [ ]
 
